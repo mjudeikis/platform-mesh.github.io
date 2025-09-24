@@ -18,9 +18,9 @@ We currently cover few high level scenarios:
 
 Every of these scenarios has hizgh level description, and multiple implementations patterns. While some of these patterns are overlapping between scenarios, we decided to duplicate them, to make it easier to follow the scenario end-to-end.
 
-### [Provider to Consumer (P2C)](./scenarios/provider-to-consumer.md)
+### [Provider to Consumer (P2C)](./scenarios/details.md#provider-to-consumer-p2c)
 
-### [Provider to Provider (P2P)](./scenarios/provider-to-provider.md)
+### [Provider to Provider (P2P)](./scenarios/details.md#provider-to-provider-p2p)
 
 #### 🛠️ Advanced Orchestration
 Implementation patterns using:
